@@ -20,4 +20,17 @@
     font-family: "Open Sans", serif;
     font-weight: 700;
     font-style: normal;
+  }  }
+
+  body{
+    font-family: Vesper Libre;
+    line-height: 1.5;
+    margin: 0;
+    color: #1a1a1a;
+  }
+
+  header, footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
   }
